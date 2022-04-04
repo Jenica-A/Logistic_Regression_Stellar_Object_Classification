@@ -16,15 +16,15 @@ My client is my University of Farmington research advisors/committee. They will 
 I plan to use the [Stellar Classification Dataset - SDSS17](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17), which is available from [kaggle](kaggle.com). 
 An individual sample/unit is an observed stellar object and its spectral characteristics. 
 The columns of interest are: 
-alpha = Right Ascension angle (at J2000 epoch)
-delta = Declination angle (at J2000 epoch)
-u = Ultraviolet filter in the photometric system
-g = Green filter in the photometric system
-r = Red filter in the photometric system
-i = Near Infrared filter in the photometric system
-z = Infrared filter in the photometric system
-field_ID = Field number to identify each field
-redshift = redshift value based on the increase in wavelength
+* alpha = Right Ascension angle (at J2000 epoch)
+* delta = Declination angle (at J2000 epoch)
+* u = Ultraviolet filter in the photometric system
+* g = Green filter in the photometric system
+* r = Red filter in the photometric system
+* i = Near Infrared filter in the photometric system
+* z = Infrared filter in the photometric system
+* field_ID = Field number to identify each field
+* redshift = redshift value based on the increase in wavelength
 
 The target will be **class** (object class--galaxy, star or quasar object).
 
