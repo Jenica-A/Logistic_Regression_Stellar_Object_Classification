@@ -3,7 +3,7 @@ Jenica Andersen April 1, 2022
 
 #### Question/Need:
 
-The question behind my proposed analysis is: Based on the spectral characteristics of a celestial object, can it be classified as a galaxy, quasar (active galactic nucleus), or star? What model and hyper parameters produce the best results (greatest accuracy)? 
+The question behind my proposed analysis is: Based on the spectral and photometric characteristics of a celestial object, can it be classified as a galaxy, quasar (active galactic nucleus), or star? What model and hyper parameters produce the best results (greatest accuracy)? 
 The impact will be having a better understanding of the universe, and a better understanding of what models are most accurate in this application.
 
 On the [webpage](Kaggle.com) where this data can be accessed, an eloquent context is given:
