@@ -1,4 +1,4 @@
-#### How I Wonder What You Are: Classifying Cosmic Point Sources, Using Logistic Regression
+## How I Wonder What You Are: Classifying Cosmic Point Sources, Using Logistic Regression
 Jenica Andersen
 Classification Module in DSML Flex Bootcamp
 April 19, 2022
