@@ -26,8 +26,8 @@ The columns of interest are:
 The target will be **class** (object class--galaxy, star or quasar object).
 
 #### Tools:
-I plan to use jupyter notebooks, python, pandas, sklearn, logistic regression models, possibly k-nearest neighbor models, and other necessary libraries to perform this analysis. I am not planning to need or use additional tools beyond those required.
+I plan to use jupyter notebooks, python, pandas, sklearn, logistic regression models, possibly k-nearest neighbor models, and other necessary libraries to perform this analysis.
 
 #### MVP Goal:
 
-A minimum viable product would be a binary classification of objects from the dataset. 
+A minimum viable product would be a binary classification of objects from the dataset with just one model. 
